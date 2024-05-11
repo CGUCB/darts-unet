@@ -7,4 +7,9 @@ DARTs relaxes the assumption of binary relationships between feature maps, conce
 # Links
 
 [Logged Model Weights](https://drive.google.com/drive/folders/1Rdo0cLG7ruatrH7tfh-9ng0mNC3faiAg?usp=sharing)
+
 [Augmented Dataset](https://drive.google.com/drive/folders/1qhOcdow3ApTFXsvVHSokNMnlqtEAu25a?usp=sharing)
+
+[Depreciated Info](https://drive.google.com/drive/folders/17oH-hUwa-B0bTQP1T76bOqwEAe7_jCaf?usp=sharing)
+
+[Thesis Paper](https://docs.google.com/document/d/1_zbY-2XX0C2PiM7ar4lKihEwtL0I2CuomQyYIO653U0/edit?usp=sharing)
